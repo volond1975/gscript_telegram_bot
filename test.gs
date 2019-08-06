@@ -1,7 +1,4 @@
-var API_TOKEN = '340010686:AAGeqWaS6IMYr3wJP0I1gzZaMshORAP9sDg' 
-var ChatIDs=['192818801','589075442']//Админ первій
-var adminChatID='192818801'
-var Chudny='589075442'
+
 
 
 function doPost(e) {
